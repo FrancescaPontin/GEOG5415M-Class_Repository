@@ -14,8 +14,8 @@ points_list = [
 
     # Add more points here
 
-    [  53.810123, -1.6265124, "Another point by nick" ],
-    [  53.837854, -1.5835647, "Nick another point by nick" ],
+    # [ latitude, longitude, "description" ], 
+    # [ latitude, longitude, "description" ], 
 
 ]
 
