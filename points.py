@@ -14,8 +14,8 @@ points_list = [
 
     # Add more points here
 
-    [ 53, -1.5, "Close to University of Leeds" ], 
-    [ 53, -1.6, "Close to Nick's neighbourhood" ], 
+    [ 53.794974, -1.548180, "Leeds Station" ], 
+    [ 53.810209, -1.565007, "Woodhouse Moor" ], 
 
 ]
 
